@@ -1,4 +1,10 @@
-This repository contains source code and data for the paper: 'The Consecrated Literary Network' presented at the ASAL Conference 3 July 2023.
+# The Consecrated Literary Network: Using Archival Metadata to Construct Literary Networks from the National Library of Australia 
+
+## Authors 
+* [Dr. Elizabeth McLean](https://arts.unimelb.edu.au/enlightenment-romanticism-contemporary-culture/people/associate-researchers/associate-researchers/dr-elizabeth-mclean)
+* [Fiannuala Morgan ](https://www.fiannualamorgan.com)
+
+This repository contains source code and data for the paper: 'The Consecrated Literary Network: : Using Archival Metadata to Construct Literary Networks from the National Library of Australia' presented at the ASAL Conference 3 July 2023.
 
 To reproduce data:
 
