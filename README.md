@@ -17,3 +17,5 @@ The output for this data can be located in the data folder.
 2. To clean data and create network, run the notebook: 2.clean_data.ipynb
 
 3. For the presented paper manual edits were made to 'processed_df.csv' for visualisation in Gephi.
+
+![Network](Refined_Network_July_3.png)
